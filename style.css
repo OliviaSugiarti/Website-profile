@@ -1,0 +1,85 @@
+/* Gaya dasar */
+body {
+    font-family: Times New Roman;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.about-me {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+/* Gaya untuk section-section */
+.experience li {
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.education li {
+    /* Gaya untuk list riwayat pendidikan */
+}
+
+.social-media li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social-media i {
+    font-size: 20px;
+    margin-right: 5px;
+}
+
+.skills li {
+    /* Gaya untuk daftar keahlian */
+}
+
+/* Gaya footer */
+footer {
+    background-color: #f0f0f0;
+    text-align
